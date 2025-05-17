@@ -2,7 +2,7 @@
 
 # Orion Twin GenAI - Gerçekçi İnsan Modeli ve Poz Manipülasyonu
 
-![Project Banner](https://github.com/username/orion-twin-genai/raw/main/docs/banner.png)
+![2b0f542e-8f44-4cc6-a334-71bcc23cc70c](https://github.com/user-attachments/assets/541318a3-fe85-4d49-8afa-e7eb38f88f7c)
 
 ## Proje Özeti
 
@@ -20,14 +20,9 @@ Orion Twin GenAI, gerçekçi insan modelleri oluşturan ve bu modellerin vücut 
 
 Projede, giyim sektöründe ürün fotoğrafçılığı için yaklaşım sunmaktadır. Tek bir model ile farklı pozlarda ve giysi kombinasyonlarında görüntüler oluşturulabilir, müşteriler kendi özgün görselleri ile ilgili ürünü satın almadan öngösterim dahilinde deneyebilir.
 
-### Üst Giysi Manipülasyonu Örnekleri
-![Üst Giysi Manipülasyonu](https://github.com/username/orion-twin-genai/raw/main/examples/upper_length_samples.png)
-
-### Alt Giysi Manipülasyonu Örnekleri
-![Alt Giysi Manipülasyonu](https://github.com/username/orion-twin-genai/raw/main/examples/bottom_length_samples.png)
-
 ### Pozlar Arası Geçiş
-![Pozlar Arası Geçiş](https://github.com/username/orion-twin-genai/raw/main/examples/pose_interpolation.gif)
+
+![latent_space_traversal (5)](https://github.com/user-attachments/assets/2237e9a7-2042-47fe-9556-a38eec5363f1)
 
 ## Teknolojik Altyapı
 
