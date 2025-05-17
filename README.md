@@ -18,7 +18,7 @@ Orion Twin GenAI, gerçekçi insan modelleri oluşturan ve bu modellerin vücut 
 
 ## Demo Görseller
 
-Projemiz, giyim sektöründe ürün fotoğrafçılığı için çığır açıcı bir yaklaşım sunmaktadır. Tek bir model ile farklı pozlarda ve giysi kombinasyonlarında görüntüler oluşturarak, geleneksel fotoğraf çekimlerinin maliyetini ve süresini büyük ölçüde azaltabilirsiniz.
+Projede, giyim sektöründe ürün fotoğrafçılığı için yaklaşım sunmaktadır. Tek bir model ile farklı pozlarda ve giysi kombinasyonlarında görüntüler oluşturulabilir, müşteriler kendi özgün görselleri ile ilgili ürünü satın almadan öngösterim dahilinde deneyebilir.
 
 ### Üst Giysi Manipülasyonu Örnekleri
 ![Üst Giysi Manipülasyonu](https://github.com/username/orion-twin-genai/raw/main/examples/upper_length_samples.png)
@@ -29,7 +29,7 @@ Projemiz, giyim sektöründe ürün fotoğrafçılığı için çığır açıc�
 ### Pozlar Arası Geçiş
 ![Pozlar Arası Geçiş](https://github.com/username/orion-twin-genai/raw/main/examples/pose_interpolation.gif)
 
-## Teknoloji Altyapısı
+## Teknolojik Altyapı
 
 Orion Twin GenAI, aşağıdaki teknolojileri ve yöntemleri kullanmaktadır:
 
@@ -37,22 +37,6 @@ Orion Twin GenAI, aşağıdaki teknolojileri ve yöntemleri kullanmaktadır:
 - **Latent Space Manipulation**: Poz ve giysi manipülasyonları için latent uzayı düzenleme
 - **Style Mixing**: Farklı stil özelliklerini koruyarak görüntü sentezi
 - **Pose Extraction & Transfer**: Referans görüntülerden poz özelliklerini çıkarma ve aktarma
-
-## Uygulama Alanları
-
-- **E-Ticaret**: Çeşitli modellerde aynı kıyafeti gösterme
-- **Moda Tasarımı**: Tasarımların farklı kişilerde nasıl görüneceğini hızla görselleştirme
-- **Katalog Oluşturma**: Yüzlerce ürün fotoğrafını hızla ve düşük maliyetle üretme
-- **Sanal Prova Odaları**: Müşterilerin kendi görüntüleri üzerinde kıyafetleri sanal olarak denemesi
-
-## Orion Twin Projesi: Teknik Hedefler
-
-Bu projenin teknik hedefi, gerçekçi bir insan modeli üretecek ve bu modelin vücudunu koruyarak farklı pozlarda görüntüler üretebilen bir Generative AI modeli eğitmektir. Projede şu adımlar uygulanmıştır:
-
-1. **Veri Toplama**: İnsan figürlerine ait yüksek kaliteli görseller toplanmış ve işlenmiştir
-2. **Model Seçimi**: StyleGAN2 ve türevleri, gerçekçi insan figürlerini oluşturmak üzere kullanılmıştır
-3. **Eğitim Süreci**: Model, insan figürünün genel vücut yapısını ve oranlarını koruyarak, farklı pozlar ve perspektiflerde insan görselleri üretmeyi öğrenmiştir
-4. **Sonuçlar**: Eğitilen model, aynı insan figürünün farklı pozlarda ve açıların görsellerini üretebilmektedir
 
 ## Kurulum ve Kullanım
 
