@@ -119,3 +119,41 @@ Hassas Poz Transferi: OpenPose ile tespit edilen eklem noktalarını kullanarak 
 Özel Poz Oluşturma: Kullanıcının tanımladığı özel pozlarda görüntüler üretme
 Kişiselleştirilmiş Modeller: Kullanıcının kendi görselini yükleyerek, bu görseldeki kişinin hedef kıyafeti giydiği veya farklı pozlarda durduğu görüntüler oluşturma
 Dinamik Poz Kütüphanesi: Moda, spor, portre gibi farklı kategorilerde hazır poz setleri
+
+
+## Proje dahilinde kullanılabilecek örnek veri setleri 
+
+Link: https://renderpeople.com/
+Dataset: RenderPeople - Fotogerçekçi 3D taranmış insanları içeren en yaygın kullanılan ticari veri setlerinden biri. 5.000'den fazla farklı poz ve kıyafet stiline sahip yüksek kaliteli model sunuyorlar. Modelleri arasında poz verilmiş insanlar, riglenmiş insanlar, animasyonlu insanlar ve 4D insanlar (hacimsel olarak yakalanmış) bulunmaktadır.
+
+Link: https://humandataset.com/
+Dataset: HumanDataset - 35.000'den fazla tarama ve 5.500 rafine edilmiş 3D model içeren büyük bir ticari koleksiyon. 330 kameralı fotogrametri kurulumu kullanılarak yakalanmış, 72 farklı ülkeden 7 ila 83 yaş aralığında gerçek taranmış insanlar sunuyorlar.
+
+Link: https://3dpeople.com/en/
+Dataset: 3DPeople - Görselleştirme ve animasyon için fotogerçekçi insan 3D modellerinin büyüyen bir koleksiyonu. "Nesil 2.0" modelleri gelişmiş pürüzlülük haritaları, PBR gölgelendirme, detaylı 50k meshler ve gerçekçi gözler içeriyor.
+
+### Akademik temelli veri setleri
+Link: https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset
+Dataset: THUman - Yaklaşık 7.000 model içeren orijinal veri seti
+
+Link: https://github.com/ZhengZerong/THUman4.0-Dataset
+Dataset: THUman4.0 - Daha yüksek kaliteli taramalarla en son versiyon
+
+Link: https://www.di.ens.fr/willow/research/surreal/data/
+Dataset: SURREAL Veri Seti - Şekil, doku, bakış açısı ve poz varyasyonları altında fotogerçekçi renderlama ile 6 milyon sentetik insan karesi içerir. MoSh metodu ile ayarlanmış parametrelerle SMPL vücut modeli kullanır.
+
+Link: https://synbody.github.io/
+Dataset: SynBody - Katmanlı insan modelleri içeren sentetik bir veri seti: (1) çeşitli konular içeren giydirilmiş parametrik insan modelleri, (2) yüksek kaliteli 3D açıklamalar sunan katmanlı insan temsili ve (3) gerçekçi veri üretmek için ölçeklenebilir bir sistem özelliklerine sahiptir.
+
+Link: https://bedlam.is.tue.mpg.de/
+Dataset: BEDLAM (Bodies Exhibiting Detailed Lifelike Animated Motion) - SMPL-X formatında gerçek 3D vücutlar içeren monokular RGB videolardan oluşan büyük ölçekli sentetik bir veri seti. Çeşitli vücut şekilleri, hareketler, ten tonları, saç ve fizik kullanılarak simüle edilmiş gerçekçi kıyafetler içerir.
+
+Link: https://amass.is.tue.mpg.de/
+Dataset: AMASS (Archive of Motion Capture as Surface Shapes) - Farklı optik işaretleyici tabanlı hareket yakalama veri setlerini ortak bir çerçeve içinde birleştiren büyük bir veritabanı. Gerçekçi insan hareketini temsil etmek için SMPL modelini kullanır.
+
+Link: https://github.com/EricGuo5513/HumanML3D
+Dataset: HumanML3D - HumanAct12 ve AMASS veri setlerini birleştiren bir 3D insan hareketi-dil veri seti. 14.616 hareket ve 44.970 açıklama ile çeşitli insan eylemlerini kapsar.
+
+Link: https://motion-x-dataset.github.io/
+Dataset: Motion-X - SMPL-X formatını kullanarak zengin yüz ve el hareketleri içeren geniş ölçekli bir 3D ifade edici tüm vücut insan hareketi veri seti.
+
